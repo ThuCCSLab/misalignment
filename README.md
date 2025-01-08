@@ -8,7 +8,7 @@ This repository contains the official code for the paper "Safety Misalignment Ag
 
 ```bibtex
 @inproceedings{GRHCWW25,
-    author = {Yichen Gong, Delong Ran, Xinlei He, Tianshuo Cong, Anyu Wang, and Xiaoyun Wang},
+    author = {Yichen Gong and Delong Ran and Xinlei He and Tianshuo Cong and Anyu Wang and Xiaoyun Wang},
     title = {Safety Misalignment Against Large Language Models},
     booktitle = {Network and Distributed System Security Symposium (NDSS)} ,
     year = {2025}
