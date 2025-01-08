@@ -6,6 +6,15 @@
 
 This repository contains the official code for the paper "Safety Misalignment Against Large Language Models", accepted by NDSS 2025.
 
+```bibtex
+@inproceedings{GRHCWW25,
+    author = {Yichen Gong, Delong Ran, Xinlei He, Tianshuo Cong, Anyu Wang, and Xiaoyun Wang},
+    title = {Safety Misalignment Against Large Language Models},
+    booktitle = {Network and Distributed System Security Symposium (NDSS)} ,
+    year = {2025}
+}
+```
+
 ## Hardware & Software dependencies
 To run the code, ensure you have the following requirements:
 - Disk space: 70 GB
